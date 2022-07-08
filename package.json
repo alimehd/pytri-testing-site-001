@@ -29,6 +29,10 @@
   
   "optionalDependencies": { "fsevents": "2.x.x" },
   
+  "engines": {
+    "node": "16.14.0",
+    "npm": "8.12.1"},
+  
   "browserslist": [
     ">0.2%",
     "not dead",
