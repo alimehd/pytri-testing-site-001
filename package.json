@@ -26,6 +26,9 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  
+  "optionalDependencies": { "fsevents": "2.x.x" },
+  
   "browserslist": [
     ">0.2%",
     "not dead",
@@ -33,6 +36,5 @@
     "not op_mini all"
   ]
   
-  "optionalDependencies": { "fsevents": "2.x.x" }
 
 }
